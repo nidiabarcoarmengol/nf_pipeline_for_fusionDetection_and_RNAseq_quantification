@@ -124,7 +124,7 @@ To use the pipeline, you need the following:
 
 2.  14 Conda environments installed for the different processes.
 
-3.  Docker with the CICERO tool.
+3.  Docker with the CICERO tool (Cicero.sh). It is necessary to change the docker name in the module if it does not have the name (magearna:5000/iper/cicero).
 
 Make sure you have everything set up to ensure the pipeline runs
 propertly.
